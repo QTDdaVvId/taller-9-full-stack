@@ -1,3 +1,23 @@
-.link-1{
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor {
+    text-align: left;
+}
+
+a {
+    display: block;
+}
+
+.link-amarillo {
     color: yellow;
+    font-size: 30px;
+}
+
+.link-morado {
+    color: purple;
+    font-size: 30px;
 }
