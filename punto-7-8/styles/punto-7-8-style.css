@@ -1,0 +1,16 @@
+header {
+    background-color: #d6afdc; 
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #0000ff;
+}
