@@ -1,0 +1,27 @@
+.texto-verde{
+    color: green;
+}
+.texto-rojo-b{
+    color: red;
+}
+.lineas{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.texto-grande{
+    font-size: 40px;
+}
+.texto-azul{
+    color: blue;
+}
+.texto-rojo-l{
+    color: red;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto{
+    text-align: left;
+}
